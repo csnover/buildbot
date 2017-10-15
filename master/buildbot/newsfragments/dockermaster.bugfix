@@ -1,0 +1,1 @@
+py-requests and py-certifi are now included by default in the buildbot-master Dockerfile.

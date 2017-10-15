@@ -38,6 +38,8 @@ RUN \
         gosu@testing \
         dumb-init@edge\
         py-jinja2 \
+        py-requests \
+        py-certifi \
         tar \
         tzdata \
         curl && \
